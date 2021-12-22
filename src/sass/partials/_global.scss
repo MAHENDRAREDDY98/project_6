@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500,700&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+}
+
+.btn:focus {
+    box-shadow: none !important;
+}
